@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "password",
+    "database": "chat_react",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5433
+  },
+  "test": {
+    "username": "nama_pengguna",
+    "password": "kata_sandi",
+    "database": "nama_database_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "nama_pengguna",
+    "password": "kata_sandi",
+    "database": "nama_database_prod",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
